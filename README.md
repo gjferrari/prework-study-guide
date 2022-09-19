@@ -1,4 +1,4 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 # STUDY GUIDE WEBPAGE
 
@@ -21,4 +21,8 @@ N/A
 
 ## License
 
-## Please refer to the LICENSE in the repo.
+
+Please refer to the LICENSE in the repo.
+
+---
+
