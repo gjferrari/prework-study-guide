@@ -1,5 +1,7 @@
 # Prework Study Guide Webpage
 
+# STUDY GUIDE WEBPAGE
+
 ## Description
 
 - This project was created for boot camps students to practice basic coding and store notes on HTML, CSS, Git, & JavaScript.
@@ -19,6 +21,8 @@ N/A
 
 ## License
 
+
 Please refer to the LICENSE in the repo.
 
 ---
+
